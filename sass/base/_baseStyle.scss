@@ -1,0 +1,28 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: var(--main-color);
+}
+
+address {
+  font-style: normal;
+  color: var(--title-color);
+}
+
+footer {
+  background: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  & > .container {
+    display: flex;
+    align-items: baseline;
+  }
+}

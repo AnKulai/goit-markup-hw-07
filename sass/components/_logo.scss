@@ -1,0 +1,29 @@
+.logo {
+  margin-right: 93px;
+}
+
+.logo__partFirst {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  color: var(--color-hover);
+  line-height: 1.38;
+}
+
+.logo__partSecond {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--main-color);
+  line-height: 1.38;
+}
+
+.logo-footer__second {
+  color: var(--text-color);
+}
+
+.logo-footer__spacing {
+  display: block;
+  margin-bottom: 20px;
+}
+
+
